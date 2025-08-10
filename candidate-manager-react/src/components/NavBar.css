@@ -14,4 +14,17 @@
 .navbar-item{
     padding: 2px;
     margin: 0px 16px;
+    cursor: pointer;
+}
+
+.navbar-item-users{
+    padding: 8px;
+    margin: 0px 16px;
+    border-radius: 4px;
+    cursor: pointer;
+}
+
+.navbar-item-users:hover{
+    background-color: #2f3f52;
+    color: #7fffd3;
 }
