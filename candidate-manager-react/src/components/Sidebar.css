@@ -1,0 +1,22 @@
+.sidebar-container{
+    display: flex;
+    flex-direction: column;
+    margin: 0px;
+    padding: 0px;
+    height: 100vh;
+}
+
+.sidebar-options{
+    padding: 12px 48px;
+    cursor: pointer;
+    border-bottom: 1px solid #ffffff;
+}
+
+.sidebar-options:hover{
+    background-color: #bdd9bf;
+    color: #2f3f52;
+}
+
+.navbar-icon:hover{
+    color: #ffffff;
+}
